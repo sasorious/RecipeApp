@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>\
+<recipeTypes>\
+    <type>Appetizer</type>\
+    <type>Main Course</type>\
+    <type>Dessert</type>\
+    <type>Snack</type>\
+</recipeTypes>\
